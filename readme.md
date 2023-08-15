@@ -21,6 +21,5 @@ i provide one example in the `tests/` folder.
 
 ### faq
 
-what about a vyper cwia factory? not yet possible.
-
-can this be a native feature? write a [vyper improvement proposal](https://github.com/vyperlang/vyper/issues).
+**Q:** what about a vyper cwia factory?<br>
+**A:** [maybe soon](https://github.com/vyperlang/vyper/issues/3557)
