@@ -1,0 +1,6 @@
+name: vyper clones with immutable arguments
+foundry:
+  host: auto
+ethereum:
+  local:
+    default_provider: foundry
