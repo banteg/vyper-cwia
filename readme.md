@@ -11,7 +11,7 @@ it provides a guarantee the contract won't try reading immutables from user inpu
 
 ```bash
 call [selector][arg1][arg2]
-	delegatecall [selector][arg1][arg2][immutable1][immutable2][extra]
+    delegatecall [selector][arg1][arg2][immutable1][immutable2][extra]
 ```
 
 it is up to you how to encode and decode immutables, but you must be very careful to not mix up their offsets.
